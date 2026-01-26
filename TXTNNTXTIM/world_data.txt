@@ -1,0 +1,10 @@
+[general]
+author=shx
+name=TXTNNTXTIM
+start=22level
+firstlevel=22level
+
+[levels]
+levelid=29
+rolling_levelid=8
+
