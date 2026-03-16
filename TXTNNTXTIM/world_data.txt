@@ -1,10 +1,10 @@
-[general]
-author=shx
-name=TXTNNTXTIM
-start=22level
-firstlevel=22level
-
 [levels]
-levelid=29
-rolling_levelid=8
+rolling_levelid=11
+levelid=30
+
+[general]
+firstlevel=22level
+start=22level
+name=TXTNNTXTIM
+author=shx
 

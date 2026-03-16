@@ -13,4 +13,4 @@ The levelpack consists of a plain flat map with 23 levels, with a wide
 difficulty range.
 
 A complete walkthrough vid can be found here:
-https://drive.proton.me/urls/FQS1ZZFYW4#QVDJBDoVc05h
+https://drive.proton.me/urls/Y8JHF0ZFCM#nOjmHPj26koV

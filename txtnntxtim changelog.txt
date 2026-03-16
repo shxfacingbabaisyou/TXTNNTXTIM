@@ -1,4 +1,8 @@
 CHANGELOG
 
+v1.1	Mar 16 2026:
+* Mailman - cheeze fix and improvements
+* Ocean - improved
+
 v1.0	Jan 26 2026:
 * Initial release
