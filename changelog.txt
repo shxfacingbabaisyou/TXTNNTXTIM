@@ -1,0 +1,17 @@
+CHANGELOG
+
+v2.0	Apr 4 2026:
+* Removed subpar levels: Stale Water, Sleep Disorder.
+* Removed subpar levels: Slider 1, Slider 2. Renamed Slider 3 -> Slider.
+* Removed subpar level: Poison Ivy. Renamed Poison Ivy 2 -> Poison Ivy.
+* New levels: Gob, Discovery of Fire, Rediscovery of Fire.
+* Renamed level: Secret Sharing Scheme -> Ricochet.
+* Minor aesthetic changes: Unripe, Lanes, Inseparable.
+* Changed level layout in map.
+
+v1.1	Mar 16 2026:
+* Mailman - cheeze fix and improvements
+* Ocean - improved
+
+v1.0	Jan 26 2026:
+* Initial release
