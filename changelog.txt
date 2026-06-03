@@ -1,5 +1,10 @@
 CHANGELOG
 
+v2.1	Jun 03 2026:
+* Ocean - cheese fix
+* Discovery of Fire - cheese fix
+* Rediscovery of Fire - cheese fix
+
 v2.0	Apr 4 2026:
 * Removed subpar levels: Stale Water, Sleep Disorder.
 * Removed subpar levels: Slider 1, Slider 2. Renamed Slider 3 -> Slider.
@@ -10,7 +15,7 @@ v2.0	Apr 4 2026:
 * Changed level layout in map.
 
 v1.1	Mar 16 2026:
-* Mailman - cheeze fix and improvements
+* Mailman - cheese fix and improvements
 * Ocean - improved
 
 v1.0	Jan 26 2026:
